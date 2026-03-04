@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Flask](https://img.shields.io/badge/Flask-2.3-green)
+![SQLite](https://img.shields.io/badge/SQLite-3.39-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Last Commit](https://img.shields.io/github/last-commit/christiandeguzman1/it-helpdesk-ticket-automation)
+
 ## Internal IT Helpdesk Ticket Automation System
 
 ## Overview
